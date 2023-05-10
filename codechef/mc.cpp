@@ -26,7 +26,7 @@ int main() {
 	        int count1;
 	        for(int i=1;i<=r;i++)
 	         {
-	             count1++;
+	             count++;
 	         }
 	        cout<<count;
 	        }
